@@ -4,7 +4,7 @@ import { Server } from 'socket.io';
 let allCounts = {};
 
 const PORT = Number(process.env.PORT);
-const ORIGIN = 'https://tumo-1ErikArakelyan1-client.vercel.app';
+const ORIGIN = 'https://tumo-1erikarakelyan1-client.vercel.app';
 
 const httpServer = createServer();
 
